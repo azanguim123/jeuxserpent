@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+	color: #000066;
+}
+p{
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.info{
+	color: #be1931;
+}
